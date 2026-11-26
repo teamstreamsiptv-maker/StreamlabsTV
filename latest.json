@@ -1,1 +1,6 @@
-{"version": 103, "versionName": "1.99", "url": "https://github.com/teamstreamsiptv-maker/StreamlabsTV/releases/download/v1.99/StreamlabsTV.apk", "notes": "TV series now start much faster on Play best: the winning link's real file host is resolved up front so the player talks to the CDN directly instead of a redirecting proxy, every top link is probed in parallel (start, middle and end of file - big episodes need the end for seeking), and throttled or broken hosts are skipped."}
+{
+  "version": 104,
+  "versionName": "2.0",
+  "url": "https://github.com/teamstreamsiptv-maker/StreamlabsTV/releases/download/v2.0/StreamlabsTV.apk",
+  "notes": "Stremio series now open much faster: the episode's stream links are fetched in the background as soon as you open a series, so Play best starts testing straight away instead of waiting for the add-on scrape, and reopening the same episode is instant."
+}
